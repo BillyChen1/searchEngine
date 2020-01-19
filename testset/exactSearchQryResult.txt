@@ -1,0 +1,17 @@
+q1 494.txt
+q1 215.txt
+q1 498.txt
+q2 496.txt
+q2 089.txt
+q2 002.txt
+q2 350.txt
+q2 376.txt
+q2 173.txt
+q2 328.txt
+q2 262.txt
+q2 344.txt
+q3 056.txt
+q3 117.txt
+q3 149.txt
+q4 510.txt
+q4 418.txt

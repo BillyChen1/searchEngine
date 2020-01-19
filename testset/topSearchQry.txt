@@ -1,0 +1,3 @@
+q1 american oil company
+q2 steel aluminium coal
+q3 european oil contract

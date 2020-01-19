@@ -1,0 +1,9 @@
+q1 210.txt
+q1 241.txt
+q1 222.txt
+q2 130.txt
+q2 161.txt
+q2 042.txt
+q3 235.txt
+q3 337.txt
+q3 065.txt
