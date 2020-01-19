@@ -6,7 +6,7 @@
 * 具体功能及要求见clabFinalProject.pdf
 * 使用方法，在命令行中执行可执行文件，其后跟随参数（实现模式的选择）
 
-  格式：name.exe mode [specifiedMode1] [specifiedMode2] [specifiedMode3]
+  格式：```name.exe mode [specifiedMode1] [specifiedMode2] [specifiedMode3]```
   
   mode: script || manual
   
