@@ -9,6 +9,7 @@
   格式：name.exe mode [specifiedMode1] [specifiedMode2] [specifiedMode3]
   
   mode: script || manual
+  
   specifiedMode: exactSearch || topSearch || topKSearch
 
   比如：
